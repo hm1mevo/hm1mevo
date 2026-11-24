@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">{{name}}</h1>
+<p align="center"><em>{{tagline}}</em></p>
 
-<!--
-**hm1mevo/hm1mevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./metrics.activity.svg" alt="activity pulse" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+### how I work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Peak days are usually Tuesday–Thursday.** I deliberately avoid Mondays for deep work.
+- **Long flat stretches** are research weeks — code shows up later as one big merge.
+- **Spiky weekends** mean a side project is alive. Currently: [{{side_project_name}}]({{side_project_url}}).
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
